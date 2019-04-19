@@ -1,0 +1,3 @@
+Reload metadata about the audio itself from the audio files.
+
+Mostly only necessary because I forgot to do this in my importer.
